@@ -1,4 +1,4 @@
-require 'rubygems'
+#! /usr/bin/env ruby
 
 # this script renames filenames
 # input file (mapping file) is a comma separated file of old filename values and new filename values
